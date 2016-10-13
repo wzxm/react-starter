@@ -2,7 +2,7 @@ import React from 'react';
 import { Router, Route, hashHistory } from 'react-router';
 import { render } from 'react-dom';
 
-import Hello from './components/Hello';
+import Hello from './components/Hello/hello';
 import About from './components/About/about';
 import Repos from './components/Repos/repos';
 

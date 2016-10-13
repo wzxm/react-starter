@@ -1,6 +1,8 @@
 
 # React starter kit
 
+React + Webpack + Babel 脚手架.
+
 A quick starter repo for React projects.
 
 - React

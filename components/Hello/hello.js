@@ -32,7 +32,6 @@ class Hello extends React.Component {
     // }
 
     select(event){
-    	console.log(this);
     	if(event.target.textContent === this.state.selected){
     		this.setState({selected: false});
     	} else {
