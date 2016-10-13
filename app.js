@@ -2,9 +2,9 @@ import React from 'react';
 import { Router, Route, hashHistory } from 'react-router';
 import { render } from 'react-dom';
 
-import Hello from './components/Hello/hello';
-import About from './components/About/about';
-import Repos from './components/Repos/repos';
+import Hello from './src/public/components/Hello/hello';
+import About from './src/public/components/About/about';
+import Repos from './src/public/components/Repos/repos';
 
 
 render((
